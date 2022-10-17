@@ -1,3 +1,4 @@
 # Information
 
-- https://slides.com/gutek/k8s-luxmed-2021?token=nj17hr6q
+- Live: https://slides.com/d/nZ1WgUA/live
+- Slides: https://slides.com/gutek/k8s-luxmed-2022?token=CkqAk1sf
